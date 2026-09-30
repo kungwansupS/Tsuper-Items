@@ -1,0 +1,20 @@
+/*
+!/.gitignore
+!/README.md
+!/COPYRIGHT.md
+!/Source/
+
+# Publish only the selected source files and their study guide.
+/Source/**
+!/Source/README.md
+!/Source/Common/
+!/Source/Items/
+!/Source/Visuals/
+!/Source/Common/WeaponKind.cs
+!/Source/Common/AttackGeometry.cs
+!/Source/Common/SwordMotion.cs
+!/Source/Common/SuperItemConfig.cs
+!/Source/Items/ExcaliburZ.cs
+!/Source/Items/SpectacleWeapon.cs
+!/Source/Visuals/Easing.cs
+!/Source/Visuals/ScreenShake.cs
